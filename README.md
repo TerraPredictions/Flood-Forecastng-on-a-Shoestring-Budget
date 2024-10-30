@@ -1,2 +1,4 @@
 # Flood-Forecastng-on-a-Shoestring-Budget
 White Paper on "Flood Forecastng on a Shoestring Budget" — an open source flood forecasting project
+
+The intent of this working paper is to describe an open source project1 alternative to existing, costly approaches to the development and implementation of regional and national scale flood forecasting systems for low- and medium-income countries. Lower income countries generally lack the financial resources and technical capacity to undertake such a daunting task. With a global community of developers, the need for local technical capacity is greatly reduced. This project is in its infancy and is evolving. So, this document is a work-in-progress. As an open source project, contributors who can volunteer their time and effort are needed. All code, methods, and documentation will soon be available as a GitHub project with an accompanying wiki.
